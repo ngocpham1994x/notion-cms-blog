@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ibb.co/PWDYtst"><img src="https://i.ibb.co/HPh2XLX/blog-screenshot.jpg" alt="Example article page" width="689"></a>
+  <a href="https://ngocpham1994x.vercel.app/"><img src="https://i.ibb.co/HPh2XLX/blog-screenshot.jpg" alt="Example article page" width="689"></a>
 </p>
 
 # Next.js & Notion Blog
