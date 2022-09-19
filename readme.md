@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://transitivebullsh.it/nextjs-notion-starter-kit">
-    <img alt="Example article page" src="https://ibb.co/PWDYtst" width="689">
-  </a>
+  <a href="https://ibb.co/PWDYtst"><img src="https://i.ibb.co/HPh2XLX/blog-screenshot.jpg" alt="Example article page" width="689"></a>
 </p>
 
 # Next.js & Notion Blog
