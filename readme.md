@@ -5,11 +5,14 @@
 # Next.js & Notion Blog
 
 > Blogs are powered by with Next.js and Notion.
+> 
 > Inspired by [Travis Fischer's repo](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
 
 ## Intro
 
-This repo is what I use to power my [personal blog](ngocpham1994x.vercel.app). My [portfolio site](ngocpha1994x.github.io) is developed through github.io.
+This repo is what I use to power my [personal blog](https://ngocpham1994x.vercel.app)). 
+
+My [portfolio site](https://ngocpha1994x.github.io) is developed through github.io.
 
 It uses Notion as a CMS, [react-notion-x](https://github.com/NotionX/react-notion-x), [Next.js](https://nextjs.org/), and [Vercel](https://vercel.com).
 
