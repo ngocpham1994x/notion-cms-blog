@@ -6,7 +6,7 @@
 
 > Blogs are powered by with Next.js and Notion.
 > 
-> Inspired by [Travis Fischer's repo](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
+> Inspired by [Travis Fischer's repo](https://github.com/transitive-bullshit/nextjs-notion-starter-kit).
 
 ## Intro
 
@@ -14,7 +14,7 @@ This repo is what I use to power my [personal blog](https://ngocpham1994x.vercel
 
 My [portfolio site](https://ngocpham1994x.github.io) is developed through github.io.
 
-I have been using Notion for documenting my daily life, and I am amazed by how easy and flexible Notion is. I thought about using Notion API to build my personal blogs, but I came across [Travis's repo](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) and it's awesome.
+I have been using Notion for documenting my daily life, and I am amazed by how easy and flexible Notion is. I thought about using Notion API to build my personal blogs, but I came across [Travis's repo](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) and it is awesome.
 
 ## Features
 
