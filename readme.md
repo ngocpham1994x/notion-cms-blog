@@ -30,4 +30,3 @@ I have been using Notion for documenting my daily life, and I am amazed by how e
 - Quick search via CMD+K / CMD+P
 - Responsive for different devices
 - Optimized for Next.js and Vercel
-
